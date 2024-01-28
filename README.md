@@ -28,6 +28,9 @@ Enter the path of gadgets.txt file: gadgets.txt
 
 ```
 
+### Pic
+![Cool GIF](https://raw.githubusercontent.com/ik0z/yososerial-auto/main/ezgif-3-eac3fb925e.gif)
+
 ### Create your own gadgets
 ```
 ─# java -jar ysoserial-all.jar
